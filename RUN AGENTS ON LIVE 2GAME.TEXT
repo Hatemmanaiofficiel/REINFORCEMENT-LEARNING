@@ -1,0 +1,7 @@
+FOR PPO AGENT / USE THIS ONE 
+
+python src/main.py --agent PPO
+
+FOR DQN AGENT / USE THIS ONE
+
+python src/main.py --agent DQN

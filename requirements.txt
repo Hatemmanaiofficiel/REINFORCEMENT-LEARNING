@@ -1,0 +1,36 @@
+# Core scientific computing
+numpy
+pandas
+matplotlib
+
+# Computer vision
+opencv-python
+
+# RL environment (Box2D for CarRacing-v3)
+swig
+gymnasium[box2d]
+shimmy
+
+# PyTorch (CPU — change to torch+cu121 for CUDA GPU)
+torch
+torchvision
+
+# RL training library
+stable-baselines3[extra]
+
+# Video recording
+imageio
+imageio-ffmpeg
+
+# Jupyter notebook support
+jupyter
+ipykernel
+ipywidgets
+
+# Utilities
+tqdm
+pillow
+
+# PDF generation (for project report)
+reportlab
+
